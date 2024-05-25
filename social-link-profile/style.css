@@ -1,0 +1,75 @@
+body{
+    font-size: 14px;
+        font-family: "Inter", sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Outfit", sans-serif;
+            font-optical-sizing: auto;
+            font-style: normal;
+
+}
+.blackContainer{
+    background-color: hsl(0, 0%, 8%)
+    ;
+}
+.greyContainer{
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 30px;
+    width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+section{
+    background-color: hsl(0, 0%, 20%);
+}
+
+.center {
+        border-radius: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+.gitHub{
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+.front-end{
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+.linkedin{
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+.twitter{
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+.instagram{
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+h1,.front-endd{
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    padding: 20px;
+    border-radius: 10px;
+}
+h5{
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+}
