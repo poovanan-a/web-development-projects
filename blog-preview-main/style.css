@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    background-color:hsl(47, 88%, 63%);
+}
+.whiteContainer{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 30px;
+    width: 450px;
+    margin: 0 auto;
+    padding: 50px;
+    height:fit-content;
+    box-shadow: 5px 10px 15px;
+
+}
+section{
+    background-color:hsl(47, 88%, 63%) ;
+    width: 80px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 3px;
+    padding: 7px;
+}
+h2{
+    color: black;
+  font-family: "Figtree", sans-serif;
+}
+h1{
+    color: black;
+  font-family: "Figtree", sans-serif;
+}
+p{
+    color: black;
+  font-family: "Figtree", sans-serif;
+}
+
+img{
+  border-radius: 20px
+}
+h3{
+  /* margin: auto 0; */
+  /* display: inline;
+  margin-bottom: 100px;
+  border: 1px solid red; */
+  position: relative;
+  bottom: 65px;
+  left: 100px;
+  color: black;
+  font-family: "Figtree", sans-serif;
+}
